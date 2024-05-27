@@ -5,7 +5,7 @@ VisualStudioVersion = 17.8.34330.188
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{FE66E09C-0A7D-47F0-AE65-017CB551D67E}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HttpClientBestPractice.API", "src\HttpClientBestPractice.API\HttpClientBestPractice.API.csproj", "{B768ADE7-96C2-47AC-AF97-3B77AD607C34}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HttpClientBestPractice.API", "src\HttpClientBestPractice.API.csproj", "{B768ADE7-96C2-47AC-AF97-3B77AD607C34}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
