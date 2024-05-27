@@ -160,4 +160,4 @@ Now add additional information in the configuration:
         Task Send_GeneratedClient(NotificationModel productDto);
     }
 ```
-
+reference : https://virgool.io/@farhadnosrati/ihttpclientfactory-aqkklgc8qpyk
